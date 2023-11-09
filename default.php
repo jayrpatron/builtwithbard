@@ -28,7 +28,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h1>Built With Bard</h1>
     <div class="header-links">
       <a href="/">Home</a>
-      <a href="blog.html">Blog</a>
+      <a href="blog">Blog</a>
       <a href="about">About</a>
       <a href="faqs">FAQs</a>
       <a href="projects.html">Projects</a>

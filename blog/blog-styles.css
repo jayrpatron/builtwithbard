@@ -125,13 +125,13 @@ iframe {
 
 figcaption {
   font-size: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 figure {
   max-width: 500px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  text-align: center;
   align-items: center;
   width: 100%;
   height: auto;

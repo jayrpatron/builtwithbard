@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="blog">Blog</a>
       <a href="about">About</a>
       <a href="faqs">FAQs</a>
-      <a href="projects.html">Projects</a>
+      <a href="projects">Projects</a>
     </div>
 </header>
   <main>

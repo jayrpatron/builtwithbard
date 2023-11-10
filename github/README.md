@@ -1,1 +1,0 @@
-# jayr.github.io

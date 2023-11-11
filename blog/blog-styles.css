@@ -125,10 +125,10 @@ iframe {
 
 figure {
   font-size: 0.8em;
-  text-align: center;
+  max-width: 500px;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 500px;
+  text-align: center;
   align-items: center;
   width: 100%;
   height: auto;

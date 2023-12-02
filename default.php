@@ -1,7 +1,7 @@
 <html lang="en">
     <head>
         <title>Built With Bard</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="/styles.css">
         <meta charset="utf-8">
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
         <meta content="Default page" name="description">
